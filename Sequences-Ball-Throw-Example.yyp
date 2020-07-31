@@ -9,6 +9,7 @@
     {"id":{"name":"oTarget","path":"objects/oTarget/oTarget.yy",},"order":3,},
     {"id":{"name":"cloud1","path":"sprites/cloud1/cloud1.yy",},"order":1,},
     {"id":{"name":"ground","path":"sprites/ground/ground.yy",},"order":4,},
+    {"id":{"name":"seqRedbotDestroy","path":"sequences/seqRedbotDestroy/seqRedbotDestroy.yy",},"order":4,},
     {"id":{"name":"oBall","path":"objects/oBall/oBall.yy",},"order":2,},
     {"id":{"name":"oManager","path":"objects/oManager/oManager.yy",},"order":0,},
     {"id":{"name":"seqBallDisappear","path":"sequences/seqBallDisappear/seqBallDisappear.yy",},"order":2,},
