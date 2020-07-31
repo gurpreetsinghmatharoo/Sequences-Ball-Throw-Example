@@ -11,6 +11,7 @@
     {"id":{"name":"ground","path":"sprites/ground/ground.yy",},"order":4,},
     {"id":{"name":"oBall","path":"objects/oBall/oBall.yy",},"order":2,},
     {"id":{"name":"oManager","path":"objects/oManager/oManager.yy",},"order":0,},
+    {"id":{"name":"seqDirtParticles","path":"sequences/seqDirtParticles/seqDirtParticles.yy",},"order":1,},
     {"id":{"name":"sRobotPart3","path":"sprites/sRobotPart3/sRobotPart3.yy",},"order":4,},
     {"id":{"name":"background","path":"sprites/background/background.yy",},"order":0,},
     {"id":{"name":"sDirtParticles","path":"sprites/sDirtParticles/sDirtParticles.yy",},"order":1,},
