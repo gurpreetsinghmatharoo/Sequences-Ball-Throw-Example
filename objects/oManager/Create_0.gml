@@ -21,8 +21,11 @@ ballDirection = 0;
 throwBall = function () {
 	ballThrown = true;
 	
-	var _force = 500;
+	static _force = 800;
 	var _forceX = lengthdir_x(_force, ballDirection);
 	var _forceY = lengthdir_y(_force, ballDirection);
-	with (ballInst) physics_apply_impulse(x, y, _forceX, _forceY);
+	with (ballInst) {
+		phy_active = true;
+		physics_apply_impulse(x, y, _forceX, _forceY);
+	}
 }

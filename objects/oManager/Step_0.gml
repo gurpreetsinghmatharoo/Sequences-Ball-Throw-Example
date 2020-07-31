@@ -3,6 +3,7 @@
 if (!ballThrown) {
 	ballInst.phy_position_x = oTracker.x;
 	ballInst.phy_position_y = oTracker.y;
+	ballInst.phy_active = false;
 }
 
 // Input

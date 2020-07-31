@@ -12,7 +12,7 @@
   "physicsSensor": false,
   "physicsShape": 2,
   "physicsGroup": 1,
-  "physicsDensity": 0.5,
+  "physicsDensity": 0.0,
   "physicsRestitution": 0.1,
   "physicsLinearDamping": 20.0,
   "physicsAngularDamping": 1.0,
