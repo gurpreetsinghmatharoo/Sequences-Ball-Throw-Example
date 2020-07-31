@@ -27,6 +27,10 @@ if (gameState == GAME_STATE.INPUT) {
 if (gameState == GAME_STATE.END && layer_sequence_is_paused(sequenceElement)) {
 	if (ballInst.timer <= 0) {
 		layer_sequence_play(sequenceElement);
-		ballInst.visible = false;
+		
+		with (ballInst) {
+			visible = false;
+			layer_sequence_create(layer, x, y, seqBallDisappearMain);
+		}
 	}
 }
