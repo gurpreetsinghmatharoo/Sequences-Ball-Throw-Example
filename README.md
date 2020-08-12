@@ -5,4 +5,4 @@ An example made in GameMaker Studio 2.3, where the main game loop is controlled 
 ![GIF](https://s7.gifyu.com/images/ballthrow_prototype_0.gif)
 
 Tutorial:
-https://youtu.be/TgPz8XWTTts
+[![Making a GAME with SEQUENCES!](https://img.youtube.com/vi/TgPz8XWTTts/0.jpg)](https://youtu.be/TgPz8XWTTts)
